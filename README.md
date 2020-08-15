@@ -10,6 +10,8 @@ Anyone can request branch
 
 8/14 : update
 
+8/15 : update-2
+
 To-Do tutorial
 https://www.proglish.cf/
 
