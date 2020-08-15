@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style>
+
+	body{
+		background-color: #3f75d2;
+	}
+
+	.submit{
+		background-color: #fafafa;
+	}
+
+	.center-column{
+		width:600px;
+		margin: 20px auto;
+		padding:20px;
+		background-color: rgb(112, 164, 243);
+		border-radius: 3px;
+		box-shadow: 6px 2px 30px 0px rgba(0,0,0,0.75);
+	}
+
+
+	.btn-danger{
+		background-color: #ee4545;
+		border-color: #ca9e9e;
+	}
+	
+
+</style>
+
+<div class="center-column">
+
+	<p>"{{item}}"삭제하시겠습니까?</p>
+
+	<form method="POST" action="">
+		{% csrf_token %}
+		<a class="btn btn-danger" href="{% url 'list' %}" >삭제</a>
+		<input class="btn btn-Success" type="submit" name="Confirm">
+	</form>
+</div>
