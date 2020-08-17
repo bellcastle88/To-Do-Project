@@ -12,7 +12,7 @@ Anyone can request branch
 
 8/15 : update-2
 
-To-Do tutorial
-https://www.proglish.cf/
+My Blog & To-Do tutorial
+https://proglish.tistory.com/
 
 
