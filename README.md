@@ -4,7 +4,7 @@ This is a simple Todo-App which Users can check a schedule that they make.
 
 It made by Django Framework to learn Django framework easily. 
 
-People who want to practice Django will be able to make simple web 
+People who want to practice Django will be able to make simple web
 
 Like this To-Do App After follow this tutorial.
 
