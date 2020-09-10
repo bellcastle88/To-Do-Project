@@ -23,7 +23,6 @@ Get the source code and install requirements:
 ```
 $ git clone git@github.com:bellcastle88/To-Do-project
 $ cd To-Do-project
-
 ```
 
 ## Acknowledgments
