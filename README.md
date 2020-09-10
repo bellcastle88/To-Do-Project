@@ -1,18 +1,34 @@
-# To-Do-Project
+# To-Do-App
 
-This is TO-DO program with Django 
+This is a simple Todo-App which Users can check a schedule that they make.
 
-You can use this app to register what you have to do. 
+Built with:
 
-You don't need to memorize. you just need to use this app.
+- Python 
+- Django 
+  
 
-Anyone can request branch 
+## Description
 
-8/14 : update
+This is a To-Do-App. it has a function below : 
 
-8/15 : update-2
+- Create schedule. 
+- Delete & Update. 
+- Check completed schedule.  
 
-My Blog & To-Do tutorial
-https://proglish.tistory.com/
+## Get the project
+
+Get the source code and install requirements:
+
+```
+$ git clone git@github.com:bellcastle88/To-Do-project
+$ cd To-Do-project
+
+```
+
+## Acknowledgments
+
+* [Dennis Ivy]( https://www.youtube.com/watch?v=4RWFvXDUmjo&t=1304s )
+
 
 
