@@ -1,6 +1,6 @@
 # To-Do-App
 
-This is a simple Todo-App which Users can check a schedule that they make.
+This is a simple Todo-App which Users can check a schedule that they make.🧛‍
 
 It made by Django Framework to learn Django framework easily. 
 
